@@ -4,13 +4,11 @@ Explorers is a tours & travels related website where people are able to find the
 
 ## Live link of Explorers: [https://explorers-tours-and-travels.web.app/](https://explorers-tours-and-travels.web.app/)
 
-### Explorers Client Code Link: [https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-Rupok-Koiry](https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-Rupok-Koiry)
+#### Explorers Client Code Link: [https://github.com/Rupok-Koiry/Explorers-Tours-Travel-Client](https://github.com/Rupok-Koiry/Explorers-Tours-Travel-Client)
 
-### Explorers Server Code Link: [https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-Rupok-Koiry](https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-Rupok-Koiry)
+#### Explorers Heroku Tours API: [https://grim-hollow-06351.herokuapp.com/tours](https://grim-hollow-06351.herokuapp.com/tours)
 
-### Explorers Heroku Tours API: [https://grim-hollow-06351.herokuapp.com/tours](https://grim-hollow-06351.herokuapp.com/tours)
-
-### Explorers Heroku Orders API: [https://grim-hollow-06351.herokuapp.com/orders](https://grim-hollow-06351.herokuapp.com/orders)
+#### Explorers Heroku Orders API: [https://grim-hollow-06351.herokuapp.com/orders](https://grim-hollow-06351.herokuapp.com/orders)
 
 ### Features of Explorers Website
 
