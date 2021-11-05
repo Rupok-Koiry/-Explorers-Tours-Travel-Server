@@ -10,7 +10,7 @@ Explorers is a tours & travels related website where people are able to find the
 
 #### Explorers Heroku Orders API: [https://grim-hollow-06351.herokuapp.com/orders](https://grim-hollow-06351.herokuapp.com/orders)
 
-### Features of Explorers Website
+## Features of Explorers Website
 
 - Explorers website is created with Node, Express, MongoDB, Firebase, React & Bootstrap framework
 - This website is very much easy navigating for the website visitors
